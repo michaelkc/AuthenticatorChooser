@@ -4,13 +4,13 @@
     "net8.0-windows7.0": {
       "McMaster.Extensions.CommandLineUtils": {
         "type": "Direct",
-        "requested": "[5.1.0, )",
+        "requested": "[5.1.0, 5.1.0]",
         "resolved": "5.1.0",
         "contentHash": "YceiKmxdsBrlkAJpmJ2N8XkLyAH01xLsm4VLfjNp5MvtAom2wflZtEBz3CLMQret6Z7jSh3oBO1ULF1Is0tNxA=="
       },
       "mwinapi": {
         "type": "Direct",
-        "requested": "[0.3.0.6, )",
+        "requested": "[0.3.0.6, 0.3.0.6]",
         "resolved": "0.3.0.6",
         "contentHash": "ifbh/zHTsN+hrT2kBE4he8+Bq9DS/9b8tA0aVIdJCOK3Y4O0hdFtZSiQHpJX1YkH4/JMmF0V5hHQDahS5i9U1g==",
         "dependencies": {
@@ -19,7 +19,7 @@
       },
       "NLog": {
         "type": "Direct",
-        "requested": "[6.1.2, )",
+        "requested": "[6.1.2, 6.1.2]",
         "resolved": "6.1.2",
         "contentHash": "y/3o6RVhHHeAMDaUdETeEtisYyypZApxeKd3k8HIH4IdqFzJNF5sXuJ07hNtAq6hLMup+yh3zuTckpFJqucOrw=="
       },
@@ -34,7 +34,7 @@
       },
       "TaskScheduler": {
         "type": "Direct",
-        "requested": "[2.12.2, )",
+        "requested": "[2.12.2, 2.12.2]",
         "resolved": "2.12.2",
         "contentHash": "glpAb3VrwfdAofp6PIyAzL0ZeTV7XUJ8muu0oZoTeyU5jtk2sMJ6QAMRRuFbovcaj+SBJiEUGklxIWOqQoxshA==",
         "dependencies": {
@@ -45,7 +45,7 @@
       },
       "ThrottleDebounce": {
         "type": "Direct",
-        "requested": "[3.0.0-beta6, )",
+        "requested": "[3.0.0-beta6, 3.0.0-beta6]",
         "resolved": "3.0.0-beta6",
         "contentHash": "hLr071LwvbfwNvjsnEb5FP7BNnmu4qG6++ZHAdVEaLCv01BQ9m3G1PLKv/C8DPJ9hFcs+3EUNh+c9/Lg459HIw==",
         "dependencies": {
@@ -54,7 +54,7 @@
       },
       "Unfucked.Windows": {
         "type": "Direct",
-        "requested": "[0.0.1-beta.11, )",
+        "requested": "[0.0.1-beta.11, 0.0.1-beta.11]",
         "resolved": "0.0.1-beta.11",
         "contentHash": "lb6D6VI8pFcuP9Y71jsGNIsZGJLU77aRyj5nmkC2HRDBDaMqAvYkX7zuOfWDnBBPcw30Qcs/FuhRneJejBLS7Q==",
         "dependencies": {
@@ -65,7 +65,7 @@
       },
       "Workshell.PE.Resources": {
         "type": "Direct",
-        "requested": "[4.0.0.147, )",
+        "requested": "[4.0.0.147, 4.0.0.147]",
         "resolved": "4.0.0.147",
         "contentHash": "ZX8AusOHS5MeLrfLar2kHE6QqCyF/XRkkuPczfhoIGo0geI9DHqwyu303rw+Q+gaoBcdi7GkwB+v6QRUvIzdgA==",
         "dependencies": {
