@@ -28,14 +28,14 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="McMaster.Extensions.CommandLineUtils" Version="5.1.0" />
-        <PackageReference Include="mwinapi" Version="0.3.0.6" />
-        <PackageReference Include="NLog" Version="6.1.2" />
+        <PackageReference Include="McMaster.Extensions.CommandLineUtils" Version="[5.1.0]" />
+        <PackageReference Include="mwinapi" Version="[0.3.0.6]" />
+        <PackageReference Include="NLog" Version="[6.1.2]" />
         <PackageReference Include="System.Management" Version="10.0.7" />
-        <PackageReference Include="TaskScheduler" Version="2.12.2" />
-        <PackageReference Include="ThrottleDebounce" Version="3.0.0-beta6" />
-        <PackageReference Include="Unfucked.Windows" Version="0.0.1-beta.11" />
-        <PackageReference Include="Workshell.PE.Resources" Version="4.0.0.147" />
+        <PackageReference Include="TaskScheduler" Version="[2.12.2]" />
+        <PackageReference Include="ThrottleDebounce" Version="[3.0.0-beta6]" />
+        <PackageReference Include="Unfucked.Windows" Version="[0.0.1-beta.11]" />
+        <PackageReference Include="Workshell.PE.Resources" Version="[4.0.0.147]" />
     </ItemGroup>
 
     <ItemGroup>
